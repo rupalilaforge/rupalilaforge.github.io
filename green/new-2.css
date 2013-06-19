@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+#body{width:1250px; height:auto;}
+#tebb{background-color:#8FBF82}
+
+#logo{margin:50px;}
+#top { margin-top:-200px; float:right}
+#sonu{ background-color:#8FBF82; height:70px; width:1250px;}
+#monu { margin-left:160px;width:550px; height:250px;}
+#small{left:450px; margin-top:-350px; float:right; position:relative;}
+#big{margin-left:60px;width:650px; height:400px; position:relative;background-color:#AED0A6;}
+
+#left{position:relative; width:500px; height:150px; background-color:#C9DFC4}
+#tex{float:right; width:350px;}
+#right{position:relative; width:500px; height:150px; background-color:#C9DFC4;}
+#mex{float:right; width:350px;}
+#box{width:350px; height:400px;position:relative; float:right; background-color:#A3C99A;left:-730px; margin-top:-400px;}
+#footer{
+	width:1250px;
+	height:90px;
+	background-color:#72AB63;
+	font-style: italic; font-size:14px;
+}
+ 
