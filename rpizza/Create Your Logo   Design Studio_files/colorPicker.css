@@ -1,0 +1,65 @@
+/*
+div.colorPicker-picker {
+  height: 16px;
+  width: 16px;
+  padding: 0 !important;
+  border: 1px solid #ccc;
+  background: url(arrow.gif) no-repeat top right;
+  cursor: pointer;
+  line-height: 16px;
+  font-size:0.75em;
+  font-weight:bold;
+  text-align: center;
+}
+*/
+
+div.colorPicker-palette {
+  width: 450px;
+  position: absolute;
+  border: 1px solid #598FEF;
+  background-color: #EFEFEF;
+  padding: 2px;
+  z-index: 9999;
+}
+  div.colorPicker_hexWrap {width: 100%; float:left }
+  div.colorPicker_hexWrap label {font-size: 95%; color: #2F2F2F; margin: 5px 2px; width: 25%}
+  div.colorPicker_hexWrap input {margin: 5px 2px; padding: 0; font-size: 95%; border: 1px solid #000; width: 15%; }
+
+div.colorPicker-swatch {
+  height: 8px;
+  width: 8px;
+  border: 1px solid #000;
+  margin: 1px;
+  float: left;
+  cursor: pointer;
+  line-height: 8px;
+}
+
+div.colorPicker-picker {
+    background: url("arrow.gif") no-repeat scroll right bottom transparent;
+    border: 1px solid #CCCCCC;
+    cursor: pointer;
+    font-size: 0.75em;
+    font-weight: bold;
+    height: 30px;
+    line-height: 29px;
+    padding: 0 !important;
+    text-align: center;
+    width: 30px;
+    float:left;
+    margin-right:50px;
+    margin-bottom: 15px;
+}
+/*.SBrow label {
+    margin-bottom: 15px;
+
+}*/
+div.colorPicker_hexWrap * {
+    position:relative;
+    z-index:-1;
+}
+.newcolor-logo div.colorPicker-picker{
+    margin-bottom: 0px !important;
+    margin-right:10px !important;
+
+}

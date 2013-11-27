@@ -1,0 +1,294 @@
+@font-face {
+font-family: 'Azariel';
+font-style: normal;
+font-weight: normal;
+src: local('azariel'), url('/fonts/azariel.ttf');
+}
+
+
+@font-face {
+font-family: 'Quicksand Book';
+font-style: normal;
+font-weight: normal;
+src: local('quicksand_book'), url('/fonts/quicksand_book.ttf');
+}
+
+@font-face {
+font-family: 'Amazone BT';
+font-style: normal;
+font-weight: normal;
+src: local('amazone'), url('/fonts/amazone.ttf');
+}
+
+@font-face {
+font-family: 'Bienville';
+font-style: normal;
+font-weight: normal;
+src: local('bienvill'), url('/fonts/bienvill.ttf');
+}
+
+@font-face {
+font-family: 'Book Antiqua';
+font-style: normal;
+font-weight: normal;
+src: local('bookantiqua'), url('/fonts/bookantiqua.ttf');
+}
+
+@font-face {
+font-family: 'Cardinal';
+font-style: normal;
+font-weight: normal;
+src: local('cardinal'), url('/fonts/cardinal.ttf');
+}
+
+@font-face {
+font-family: 'DiskusDMed';
+font-style: normal;
+font-weight: normal;
+src: local('diskudmed'), url('/fonts/diskudmed.ttf');
+}
+
+@font-face {
+font-family: 'Fabian';
+font-style: normal;
+font-weight: normal;
+src: local('fabian'), url('/fonts/fabian.ttf');
+}
+
+@font-face {
+font-family: 'Gabrielle';
+font-style: normal;
+font-weight: normal;
+src: local('gabrielle'), url('/fonts/gabrielle.ttf');
+}
+
+@font-face {
+font-family: 'Helvetica LT Narrow';
+font-style: normal;
+font-weight: normal;
+src: local('helvetica2'), url('/fonts/helvetica2.ttf');
+}
+
+@font-face {
+font-family: 'Honey Script';
+font-style: normal;
+font-weight: normal;
+src: local('honeyscript_light'), url('/fonts/honeyscript_light.ttf');
+}
+
+@font-face {
+font-family: 'Honey Script SemiBold';
+font-style: normal;
+font-weight: normal;
+src: local('honeyscript_semiBold'), url('/fonts/honeyscript_semiBold.ttf');
+}
+
+@font-face {
+font-family: 'ImperialScript';
+font-style: normal;
+font-weight: normal;
+src: local('imperial'), url('/fonts/imperial.ttf');
+}
+
+@font-face {
+font-family: 'Neuropol';
+font-style: normal;
+font-weight: normal;
+src: local('neuropol'), url('/fonts/neuropol.ttf');
+}
+
+@font-face {
+font-family: 'Octin Sports Free';
+font-style: normal;
+font-weight: normal;
+src: local('octin_sports'), url('/fonts/octin_sports.ttf');
+}
+
+@font-face {
+font-family: 'OhLey';
+font-style: normal;
+font-weight: normal;
+src: local('ohley'), url('/fonts/ohley.ttf');
+}
+
+@font-face {
+font-family: 'Old London';
+font-style: normal;
+font-weight: normal;
+src: local('oldlondon'), url('/fonts/oldlondon.ttf');
+}
+
+@font-face {
+font-family: 'P22 Dearest Script';
+font-style: normal;
+font-weight: normal;
+src: local('p22dearest_script'), url('/fonts/p22dearest_script.ttf');
+}
+
+@font-face {
+font-family: 'Petemoss';
+font-style: normal;
+font-weight: normal;
+src: local('petemoss'), url('/fonts/petemoss.ttf');
+}
+
+@font-face {
+font-family: 'Quicksand Bold';
+font-style: normal;
+font-weight: normal;
+src: local('quicksand_bold'), url('/fonts/quicksand_bold.ttf');
+}
+
+@font-face {
+font-family: 'Quicksand Book Oblique';
+font-style: normal;
+font-weight: normal;
+src: local('quicksand_book_oblique'), url('/fonts/quicksand_book_oblique.ttf');
+}
+
+@font-face {
+font-family: 'Quicksand Light';
+font-style: normal;
+font-weight: normal;
+src: local('quicksand_light'), url('/fonts/quicksand_light.ttf');
+}
+
+
+@font-face {
+font-family: 'Ruthie';
+font-style: normal;
+font-weight: normal;
+src: local('ruthr'), url('/fonts/ruthr.ttf');
+}
+
+@font-face {
+font-family: 'Saddlebag';
+font-style: normal;
+font-weight: normal;
+src: local('saddlebag'), url('/fonts/saddlebag.ttf');
+}
+
+@font-face {
+font-family: 'Scriptina Pro';
+font-style: normal;
+font-weight: normal;
+src: local('scriptina_pro'), url('/fonts/scriptina_pro.ttf');
+}
+
+
+
+@font-face {
+font-family: 'Sloop-ScriptOne';
+font-style: normal;
+font-weight: normal;
+src: local('sloopone'), url('/fonts/sloopone.ttf');
+}
+
+
+
+@font-face {
+font-family: 'Snickles';
+font-style: normal;
+font-weight: normal;
+src: local('snickles'), url('/fonts/snickles.ttf');
+}
+
+
+
+@font-face {
+font-family: 'Subway';
+font-style: normal;
+font-weight: normal;
+src: local('subway_black'), url('/fonts/subway_black.ttf');
+}
+
+
+
+
+@font-face {
+font-family: 'Aaargh';
+font-style: normal;
+font-weight: normal;
+src: local('aaargh'), url('/fonts/aaargh.ttf');
+}
+
+@font-face {
+font-family: 'Dodger';
+font-style: normal;
+font-weight: normal;
+src: local('dodger'), url('/fonts/dodger.ttf');
+}
+
+@font-face {
+font-family: 'Dodger Condensed Italic';
+font-style: normal;
+font-weight: normal;
+src: local('dodger_ci'), url('/fonts/dodger_ci.ttf');
+}
+
+@font-face {
+font-family: 'Existence Light';
+font-style: normal;
+font-weight: normal;
+src: local('existence_light'), url('/fonts/existence_light.ttf');
+}
+
+@font-face {
+font-family: 'Federal Service';
+font-style: normal;
+font-weight: normal;
+src: local('fedservice'), url('/fonts/fedservice.ttf');
+}
+
+@font-face {
+font-family: 'Federal Service Bold';
+font-style: normal;
+font-weight: normal;
+src: local('fedservicebold'), url('/fonts/fedservicebold.ttf');
+}
+
+
+@font-face {
+font-family: 'Federal Service Italic';
+font-style: normal;
+font-weight: normal;
+src: local('fedserviceital'), url('/fonts/fedserviceital.ttf');
+}
+
+@font-face {
+font-family: 'Regencie';
+font-style: normal;
+font-weight: normal;
+src: local('regencielight'), url('/fonts/regencielight.ttf');
+}
+
+@font-face {
+font-family: 'Regencie Alt';
+font-style: normal;
+font-weight: normal;
+src: local('regencielightalt'), url('/fonts/regencielightalt.ttf');
+}
+
+
+@font-face {
+font-family: 'Spy Agency';
+font-style: normal;
+font-weight: normal;
+src: local('spyagency'), url('/fonts/spyagency.ttf');
+}
+
+@font-face {
+font-family: 'Spy Agency Italic';
+font-style: normal;
+font-weight: normal;
+src: local('spyagencyital'), url('/fonts/spyagencyital.ttf');
+}
+
+
+@font-face {
+font-family: 'Velocity';
+font-style: normal;
+font-weight: normal;
+src: local('velocity'), url('/fonts/velocity.ttf');
+}
+

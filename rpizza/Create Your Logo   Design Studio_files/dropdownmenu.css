@@ -1,0 +1,101 @@
+.ddsmoothmenu ul {
+	z-index:100;
+	margin: 0 0 0 0;
+	padding: 0;
+	list-style-type: none;
+
+}
+
+.ddsmoothmenu ul li {
+	position: relative;
+	display: inline;
+	float: left;
+}
+
+.ddsmoothmenu ul li a.selected {
+    color:#C72357 !important;
+}
+
+.ddsmoothmenu ul li ul {
+	position: absolute;
+	left: 0;
+	display: none; /*collapse all sub menus to begin with*/
+	/*visibility:hidden;*/
+	background:#FFF;
+	padding:0 0 0 0;
+	margin-left:2px;
+	margin-top:5px;
+    opacity:1 !important;
+	border:solid 1px #c1c1c1;
+	border-radius:5px;
+	box-shadow:0 0 5px #ececec;
+        width:180px !important;
+        box-shadow: 0 3px 4px #ACACAC;
+}
+
+.ddMenu:before {
+    background: url("/images/ddMenuNub.png") no-repeat scroll 0 0 transparent;
+    content: "";
+    height: 5px;
+    left: 83px;
+    position: absolute;
+    top: -6px;
+    width: 9px;
+}
+
+.ddsmoothmenu ul li ul li {
+	border-top: 1px solid #f2f2f2;
+	display: list-item;
+	float: none;
+	height: auto;
+	width:100%;
+	float:left;
+}
+
+.ddsmoothmenu ul li ul li a {
+    display: block;
+    font-size: 14px;
+    height: auto;
+    padding:10px 12px !important;
+    text-align: left;
+	width:84.5%;
+        border-radius:3px;
+        margin:2px;
+}
+
+.ddsmoothmenu ul li ul li:first-child {
+	border-top:none;
+}
+
+.ddsmoothmenu ul li ul li a:hover {
+	background-color:#f4f4f4 !important;
+        box-shadow:inset 0 0 3px #e8e8e8;
+}
+
+/* Holly Hack for IE \*/
+* html .ddsmoothmenu{height: 1%;} /*Holly Hack for IE7 and below*/
+
+.downarrowclass{
+	position: absolute;
+	top: 9px;
+	right: 8px;
+}
+
+.rightarrowclass{
+	position: absolute;
+	top: 8px;
+	right: 5px;
+}
+
+.ddshadow {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 0;
+	height: 0;
+}
+
+ul.main-navigation li a.ddMenu:hover {
+	background-image:none !important;
+}
+
