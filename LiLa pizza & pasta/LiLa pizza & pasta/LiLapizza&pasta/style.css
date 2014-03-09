@@ -1,0 +1,359 @@
+
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #372412 url(images/img01.gif) repeat-x;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+
+body, th, td, input, textarea, select, option {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3 {
+	text-transform: lowercase;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+
+h1 {
+	letter-spacing: -2px;
+	font-size: 3em;
+}
+
+h2 {
+	letter-spacing: -1px;
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1em;
+}
+
+p, ul, ol {
+	line-height: 200%;
+}
+
+blockquote {
+	padding-left: 1em;
+}
+
+blockquote p, blockquote ul, blockquote ol {
+	line-height: normal;
+	font-style: italic;
+}
+
+a {
+	color: #FFEA6F;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+img { border: none; }
+
+/* Header */
+
+#header {
+	width: 830px;
+	height: 280px;
+	margin: 0 auto;
+	background: url(images/img02.jpg) no-repeat;
+}
+
+/* Logo */
+
+#logo {
+	height: 170px;
+	background: url(images/logo.png) no-repeat left;
+}
+
+#logo h1 {
+	float: right;
+	padding: 40px 40px 0 50px;
+	letter-spacing: -2px;
+	font-size: 48px;
+}
+
+/*#logo span {
+	float: right;
+	padding: 68px 0 0 0;
+	font-size: 24px;
+	background:url(images/logo.png) no-repeat;
+	
+}
+*/
+#logo a {
+	text-decoration: none;
+	color: #372412;
+}
+
+/* Gallery */
+
+#gallery {
+	clear: both;
+	width: 830px;
+	height: 300px;
+	margin: 0 auto;
+	
+}
+
+#top-photo h2 {
+	height: 1.4em;
+	font-size: 1em;
+}
+
+#top-photo p {
+	margin: 0;
+	padding: 0 0 10px 0;
+}
+
+/* Menu */
+
+#menu {
+	width: 830px;
+	height: 70px;
+	background: url(images/img03.jpg) no-repeat;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	width: 166px;
+	height: 73px;
+	padding-top: 35px;
+	text-transform: lowercase;
+	text-decoration: none;
+	text-align: center;
+	letter-spacing: -1px;
+	font-size: 24px;
+	color: #FFFFFF;
+}
+
+#menu a:hover {
+	background: url(images/img09.jpg) no-repeat;
+	color: #FFFFFF;
+}
+
+#menu .active a {
+	background: url(images/img09.jpg) no-repeat;
+	color: #372412;
+}
+
+/* Page */
+
+#page {
+	width: 830px;
+	height:auto;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+
+/* Content */
+
+#content {
+	background: url(images/pizz-1.jpg) no-repeat;	
+	float: left;
+	width: 425px;
+	height:652px;
+	padding-left:155px;
+	padding-top:55px;
+	margin-right:10px;
+}
+#content_inner {	
+	float: left;
+	width: 525px;
+	height:652px;
+	/*padding-left:155px;
+	padding-top:55px;*/
+	margin-right:10px;
+}
+
+
+
+.post {
+	padding: 0 0 20px 0;
+}
+
+.title {
+	margin: 0;
+	border-bottom: 2px solid #4A3903;
+}
+
+.byline {
+	margin: 0;
+}
+
+.meta {
+	border-top: 1px solid #4A3903;
+	text-align: right;
+	color: #646464;
+}
+
+.meta a {
+	padding-left: 15px;
+	background: url(images/img06.gif) no-repeat left center;
+	font-weight: bold;
+}
+
+/* Sidebar */
+
+#sidebar {
+	float: left;
+	width: 240px;
+}
+
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#sidebar li {
+}
+
+#sidebar li ul {
+	padding: 15px 0;
+}
+
+#sidebar li li {
+	padding-left: 30px;
+	border-bottom: 1px dotted #4A3903;
+	background: url(images/img06.gif) no-repeat 15px 50%;
+}
+
+#sidebar h2 {
+	margin: 0;
+	padding: 20px 0 2px 70px;
+	background: url(images/Pizza_Slice-in_Tango_Colors.png) no-repeat left bottom;
+	border-bottom: 2px solid #4A3903; 
+}
+
+#sidebar a {
+	text-decoration: none;
+}
+
+#sidebar a:hover {
+	text-decoration: underline;
+}
+
+/* Footer */
+
+#footer {
+	clear: both;
+	padding: 20px 0;
+	background: #FFEA6F;
+	border-top: 3px solid #E8AD35;
+	text-align: center;
+	font-size: smaller;
+	color: #E8AD35;
+}
+
+#footer a {
+	color: #C28C21;
+}
+
+
+/*  Slider */
+
+
+ /* image replacement */
+        .graphic, #prevBtn, #nextBtn, #slider1prev, #slider1next{
+            margin:0;
+            padding:0;
+            display:block;
+            overflow:hidden;
+            text-indent:-8000px;
+            }
+    /* // image replacement */
+			#content{
+		position:relative;
+		}
+
+	#slider ul, #slider li,
+	#slider2 ul, #slider2 li{
+		margin:0;
+		padding:0;
+		list-style:none;
+		}
+	#slider2{margin-top:1em;}
+	#slider li, #slider2 li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		width:880px;
+		height:320px;
+		overflow:hidden; 
+		}	
+	#prevBtn, #nextBtn,
+	#slider1next, #slider1prev{ 
+		display:block;
+		width:41px;
+		height:42px;
+		position:absolute;
+		left:-10px;
+		top:180px;
+		z-index:1000;
+		}	
+	#nextBtn, #slider1next{ 
+		left:870px;
+		}														
+	#prevBtn a, #nextBtn a,
+	#slider1next a, #slider1prev a{  
+		display:block;
+		position:relative;
+		width:41px;
+		height:42px;
+		background:url(../images/btn_prev.gif) no-repeat 0 0;	
+		}	
+	#nextBtn a, #slider1next a{ 
+		background:url(../images/btn_next.gif) no-repeat 0 0;	
+		}	
+		
+	/* numeric controls */	
+
+	ol#controls{
+		margin:1em 0;
+		padding:0;
+		height:28px;	
+		}
+	ol#controls li{
+		margin:0 10px 0 0; 
+		padding:0;
+		float:left;
+		list-style:none;
+		height:28px;
+		line-height:28px;
+		}
+	ol#controls li a{
+		float:left;
+		height:28px;
+		line-height:28px;
+		border:1px solid #ccc;
+		background:#DAF3F8;
+		color:#555;
+		padding:0 10px;
+		text-decoration:none;
+		}
+	ol#controls li.current a{
+		background:#5DC9E1;
+		color:#fff;
+		}
+	ol#controls li a:focus, #prevBtn a:focus, #nextBtn a:focus{outline:none;}
+	
+/* //  Slider */
