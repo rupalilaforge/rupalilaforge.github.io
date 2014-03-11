@@ -17,3 +17,6 @@ Body{ background:#dece0c; color:#333; font-family:"Trebuchet MS", Arial, Helveti
 #footer ul{width:500px; height:15px; list-style-type:none; clear:both; padding-left:385px;}
 #footer ul li a{ width:80px; height:15px; text-decoration:none; font-size:13px; display:block; float:left; color:#ccc;}
 #footer ul li a:hovor{ background:#CF6; color:#9F3;}
+#footer ul{width:500px; height:15px; list-style-type:none; clear:both; padding-left:385px;}
+#footer ul li a{ width:80px; height:15px; text-decoration:none; font-size:13px; display:block; float:left; color:#ccc;}
+#footer ul li a:hovor{ background:#CF6; color:#9F3;}
