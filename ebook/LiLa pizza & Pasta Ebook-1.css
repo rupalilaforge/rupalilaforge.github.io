@@ -1,25 +1,25 @@
 @charset "utf-8";
 /* CSS Document */
 #magazine{
-    width: 1200px;
-    height:1000px;
+    width: 800 px;
+    height:700 px;
 }
 #magazine .turn-page{
     background-color:#ccc;
 }
 #flipbook {
-	width:1200px;
-	height:1000px
+	width:800 px;
+	height:700 px
 }
 #flipbook .page-wrapper{
-   -webkit-perspective:2000px;
-   -moz-perspective: 2000px;
-   -ms-perspective: 2000px;
-   perspective: 2000px;
+   -webkit-perspective:800 px;
+   -moz-perspective: 800 px;
+   -ms-perspective: 800 px;
+   perspective: 800 px;
 }
 #flipbook .page{
-	width:1200px;
-	height:1000px;
+	width:800 px;
+	height:700 px;
 }
 #flipbook{
   -webkit-transition:margin-left 0.2s ease-in-out;

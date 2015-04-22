@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#body {background-color:#AC59FF;}
+#main{ background-color:#FFF; margin-left:350px; margin-ight:500px; height:1000px; width:850px; border:2px solid; border-color:#61147c; border-radius:90px;}
+#qgame{ margin-left:50px; margin-top:50px;}
+#photo { margin-left:250px; margin-top:180px; width:350px; height:300; border:2px solid; border-radius:15px; box-shadow: #E8E8E8;box-shadow: 5px 5px 5px;}
+#content h3 {
+    margin-left: 50px;
+    font-size: 24px;
+    color: #61147c;
+    padding top: 10px;
+} 
+#content h4 {
+     margin-left: 50px;
+    font-size: 18px;
+    color: #61147c;
+    font-weight: normal; 
+}
+#many photo{ margin-top:200px;}
+#text {margin-left: auto;
+    margin-right: auto;
+    width: 60%; height:auto ;  }
+#text p {
+    margin-left: 10px;
+    font-size: 14px;
+    color:#61147c;}
+#text H4{ 
+    font-size: 18px;
+    color: #61147c;
+    font-weight: normal;
+    text-align: center; text-decoration: underline;
+}   

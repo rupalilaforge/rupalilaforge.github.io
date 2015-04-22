@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+#body { width:1200px; height:auto; } 
+#first {width:1000px;height:auto; margin-left:500px;background-color: #1BBE92;}
+#logo {margin-left:500px;}
+#techplan {margin-left:500px;}
+#box{ margin-left:500px;font-size:16px; color:#1BBE92;}
+#footer {width:1000px;height:auto; margin-left:500px;background-color: #1BBE92;}

@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:#632758}
+#maincont {background-color:#FFF; position: relative; width: 900px; height:auto; margin-left:350px;
+ }
+#maincont h1 {
+    font-size: 38px;
+    color: #632758;
+    }
+#maincont p {
+    font-size: 14px;
+    color: #632758;
+    padding-left: 10px; 
+}
+#maincont h3 {
+    font-size: 24px;
+    color: #632758;
+    padding-left: 10px;
+    }
+#form {background-color:#fcf7fc; position: relative; width: 450px; height:auto; margin-left:50px;
+ }
+input[type=text]:enabled{font-color:#632758;
+    background: #f3d8f7;
+}
+#enrol {position: relative; width: 400px; height:auto;float: right; margin-left:450px; margin-top:-200px; }
