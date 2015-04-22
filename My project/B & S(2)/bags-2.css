@@ -36,7 +36,7 @@ div.desc {
   margin: 4px;
   color:#D41FFF;
 }
-
+div.desc img { margin-top: -45px; gin-left: 400px; }
 #hext table tr th {
 	color: #FFFBF0;
 }
