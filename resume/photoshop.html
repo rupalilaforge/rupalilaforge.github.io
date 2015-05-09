@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+ <head>
+ <title>Photoshop</title>
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+ </head>
+<body bgcolor="#632758">
+<div id="main" >
+<div id="tagline">
+        <h3>Rupali La Forge</h3>
+        <h4>Web Designer</h4>
+    </div>
+<div style="clear:both">
+
+<div id="menu">
+       <ul id="menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="resume.html">Resume</a></li>
+        <li><a href="my work.html">Projects</a></li> 
+        <li><a href="contact.html">Contact</a></li>    
+        
+    </ul>
+    </div><div style="clear:both">
+
+<div id="resume">
+<h3>A slide show</h3>
+</div>
+<hr style="color:#eb4fa5;background-color:#eb4fa5;height:1px;border:none;/>
+<div id= "look"> <h3>My work using  Photoshop and Xara photo and graphic.</h3>
+</div>
+<hr style="color:#eb4fa5;background-color:#eb4fa5;height:1px;border:none;/>
+<div id="photo">    
+ <ul class="slide"> 
+<li><img src="ph.JPG" width="580" height="500"></img></li> 
+<li><img src="Li-p&p-1.JPG" width="580" height="500"></img></li>
+<li><img src="shed-1.JPG" width="580" height="500"></img></li>   
+<li><img src="welcom-1.jpg" width="580" height="500"></img></li>
+<li><img src="thank.JPG" width="580" height="500"></img></li>
+<li><img src="cover page.JPG" width="580" height="500"></img></li>
+<li><img src="home (2).JPG" width="580" height="500"></img></li>
+<li><img src="lilanew-1.JPG" width="580" height="500"></img></li>
+<li><img src="loveyou-1.JPG" width="580" height="500"></img></li>
+<li><img src="tree-1.JPG" width="580" height="500"></img></li>
+<li><img src="pschool2.jpg" width="580" height="500"></img></li>
+<li><img src="news.JPG" width="580" height="500"></img></li>
+<li><img src="thanksg-1.JPG" width="580" height="500"></img></li>
+<li><img src="aff-pasta-3.JPG" width="580" height="500"></img></li>
+<li><img src="x.jpg" width="580" height="500"></img></li>
+<li><img src="agile.JPeG" width="580" height="500"></img></li>
+<li><img src="cover.JPG" width="580" height="500"></img></li>   
+<li><img src="jac4.jpeg"  width="580" height="500"></img></li>
+<li><img src="agl6.JPeG" width="580" height="500"></img></li>
+<li><img src="logo.JPG" width="580" height="500"></img></li>
+</ul>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript">
+$('.slide li:gt(0)').hide();
+$('.slide li:last').addClass('last');
+var cur = $('.slide li:first');
+
+function animate() {
+	cur.fadeOut( 1000 );
+	if ( cur.attr('class') == 'last' )
+		cur = $('.slide li:first');
+	else
+		cur = cur.next();
+	cur.fadeIn( 1000 );
+}
+
+$(function() {
+	setInterval( "animate()", 6000 );
+} );
+</script>
+</div></div><div style="clear:both">	
+<br/>
+<br/>
+<div id="th"><img src="th.jpg"/> </div>		
+</div><!--end main-->
+<br/>
+<br/>
+
+</body>
+</html>
