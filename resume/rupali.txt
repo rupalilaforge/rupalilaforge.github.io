@@ -1,0 +1,39 @@
+Actor Consulting Pvt. Ltd
+02/2012  till Date
+web Designer
+) Career Summary
+) Creative Web Design, 1 year of work experience in designing websites.
+) Experience in designing dynamic and static pages.
+) Hands on experience designing newsletters, logos and other marketing collaterals.
+) Team player with good listening skills and innovative ideas for attractive designs. 
+ 
+
+About company:
+I started a company, JActor Consulting, in 2012 at Bangalore KA India. This is computer software research company. Our product JActor is a high-performance and robust alternative to threads and locks.products have fixed some major issues in the Actor model especially with regard to robustness as a program matures.
+I am responsible for general management, events and website development  and e Marketing.
+
+CTO of JActor Consulting Bill wrote an article, "An Object Oriented Model for Robust Multi-threaded Programming" ,has been published by Java Magazine. http://javamag.org/developing-java-applications-issue-on-java-is-out/
+
+Developed technical drawings describing the operation of the JActor2 product: https://  github.com/laforge49/JActor2#readme 
+Website:http://jactorconsulting.com/
+            : http://www.agilewiki.org/
+           : Ebook for  AgileWiki
+       
+
+Key Responsibilities:
+
+Responsible for events, web site development and general management. 
+Developed technical graphics used in the description of the operation of the JActor2 product
+
+Achievements:
+
+Developed the resources and staffed the booth at FOSS, Bar Camp, BUJA and TechMeetup.
+Reworked the look & feel of the website pages.
+Designed various websites/e-book  such as www.agilewiki.org, cover page for magazine and handouts.
+
+Skills Set:
+Designing Software: Adobe Photoshop, Xra Photo and Graphic Design
+Web Designing: Adobe Dream weaver, HTML,  CSS.
+
+
+ 
