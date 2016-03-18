@@ -153,7 +153,7 @@ img { border: none; }
 #content_inner {	
 	float: left;
 	width: 525px;
-	height:652px;
+	height:auto;
 	/*padding-left:155px;
 	padding-top:55px;*/
 	margin-right:10px;
