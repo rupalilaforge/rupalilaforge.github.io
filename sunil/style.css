@@ -47,7 +47,7 @@ blockquote p, blockquote ul, blockquote ol {
 }
 
 a {
-	color: #FFEA6F;
+	color: #FFFFFF;
 }
 
 a:hover {
@@ -215,7 +215,7 @@ img { border: none; }
 #sidebar h2 {
 	margin: 0;
 	padding: 20px 0 2px 70px;
-	background: url(images/Pizza_Slice-in_Tango_Colors.png) no-repeat left bottom;
+	background: url(images/bowl.jpg) no-repeat left bottom;
 	border-bottom: 2px solid #4A3903; 
 }
 
