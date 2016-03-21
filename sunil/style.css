@@ -130,6 +130,44 @@ img { border: none; }
 	color: #372412;
 }
 
+/* icon */
+
+#icon { 
+        padding-top: 165px;
+	width: 1070px;
+	height: 80px;
+	background: url(images/.jpg) no-repeat;
+}
+
+#icon ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#icon li {
+	display: inline;
+}
+
+#icon a {
+	display: block;
+	float: left;
+	width: 166px;
+	height: 73px;
+	padding-top: 35px;
+	text-transform: lowercase;
+	text-decoration: none;
+	text-align: center;
+	letter-spacing: -1px;
+	font-size: 24px;
+	color: #FFFFFF;
+}
+
+#icon .active a {
+	background: url(images/be3.jpg) no-repeat;
+	color: #372412;
+}
+
 /* Page */
 
 #page {
