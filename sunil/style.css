@@ -121,12 +121,12 @@ img { border: none; }
 }
 
 #menu a:hover {
-	background: url(images/be3.jpg) no-repeat;
+	background: url(images/b5.jpg) no-repeat;
 	color: #FFFFFF;
 }
 
 #menu .active a {
-	background: url(images/be3.jpg) no-repeat;
+	background: url(images/b5.jpg) no-repeat;
 	color: #372412;
 }
 
