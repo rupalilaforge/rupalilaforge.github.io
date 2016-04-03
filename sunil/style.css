@@ -268,7 +268,7 @@ img { border: none; }
 /* Footer */
 
 #footer {
-	width: 2000px;
+	width: 100%;
 	clear: both;
 	padding: 20px 0;
 	background: #bf6e59;
