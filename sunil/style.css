@@ -59,10 +59,10 @@ img { border: none; }
 /* Header */
 
 #header {
-	width: 1070px;
+	width: 2000px;
 	height: 280px;
 	margin: 0 auto;
-	background: url(images/bg12.jpg) no-repeat;
+	background: url(images/bg13.jpg) no-repeat;
 }
 
 
@@ -71,7 +71,7 @@ img { border: none; }
 
 #gallery {
 	clear: both;
-	width: 830px;
+	width: 835px;
 	height: 300px;
 	margin: 0 auto;
 	
@@ -93,7 +93,7 @@ img { border: none; }
         padding-top: 165px;
 	width: 1070px;
 	height: 80px;
-	background: url(images/.jpg) no-repeat;
+	background:  no-repeat;
 }
 
 #menu ul {
@@ -268,7 +268,7 @@ img { border: none; }
 /* Footer */
 
 #footer {
-	width: 100%;
+	width: 2000px;
 	clear: both;
 	padding: 20px 0;
 	background: #bf6e59;
