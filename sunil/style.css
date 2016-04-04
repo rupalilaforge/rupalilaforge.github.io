@@ -59,7 +59,7 @@ img { border: none; }
 /* Header */
 
 #header {
-	width: 100%;
+	width: 830px;
 	height: 280px;
 	margin: 0 auto;
 	background: url(images/bg13.jpg) no-repeat;
@@ -91,7 +91,7 @@ img { border: none; }
 
 #menu { 
         padding-top: 165px;
-	width: 1070px;
+	width: 830px;
 	height: 80px;
 	background:  no-repeat;
 }
