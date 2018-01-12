@@ -62,8 +62,8 @@ ul#menu li a{ float: left; margin-left:20px; padding-left:20px; font-size: 30px;
 
 }
 #th{float: right; margin-right:400px;margin-top: 80px; }
-#footer { background-color: #f791a9; repeat-x;border-top: 3px solid #dd0b7e; width: 0 auto;margin: 0 auto; hight: 100px;clear: both;}
-#footer h3{text-align: center;font-size: 30px; color: #f7deeb; padding-top: 80px;  padding-bottom: 80px; text-decoration: underline;}
+#footer { background-color: #564747; repeat-x;border-top: 3px solid #dd0b7e; width: 0 auto;margin: 0 auto; hight: 100px;clear: both;}
+#footer h3{text-align: center;font-size: 30px; color: #090808; padding-top: 80px;  padding-bottom: 80px; text-decoration: underline;}
 
 
 #body.blog > div:first-child > ul > li > img {
