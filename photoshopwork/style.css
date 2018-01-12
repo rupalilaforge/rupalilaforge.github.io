@@ -1,13 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
 
-#body{font-family: Arial, Helvetica, sans-serif;background-color:#632758 }
-#main  { background-color:#f7deeb;; width: 900px;
+#body{font-family: Arial, Helvetica, sans-serif;background-color:#9c9797 }
+#main  { background-color:#f9f5f5;; width: 800px;
     margin: 0 auto;
     }
-#main h3 {font-size: 30px; color: #eb4fa5; padding-left: 20px;}
-#main h4 {font-size: 20px; color: #c51274;padding-left: 20px; }
-#main p {color: #eb4fa5;padding-left: 20px;}
+#main h3 {font-size: 30px; color: #100c0c; padding-left: 20px;}
+#main h4 {font-size: 20px; color: #2d2b2b;padding-left: 20px; }
+#main p {color: #2d2b2b-left: 20px;}
 #main a {color: #c51274;}
 #main a:hover{ color:#72eef3;}
 #main Ul {list-style: none; padding-left: 20px;}
