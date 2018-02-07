@@ -1020,7 +1020,7 @@ img {
 }
 /*----------------------------------------footer-styles---------------------------------------*/
 #footer {
-	background-color: #a00334;
+	background-color: #990c0c;
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -1068,9 +1068,9 @@ img {
 #footer div .connect a.googleplus {
 	background-position: 0 -32px;
 }
-#footer div .connect a.pinterest {
+#footer div .connect a.github {
 	background-position: 0 -64px;
 }
-#footer div .connect a.twitter {
+#footer div .connect a.linkedin {
 	background-position: 0 -96px;
 }
