@@ -586,6 +586,21 @@ img {
 	text-align: left;
 	text-transform: uppercase;
 }
+#body div.blog .featured ul li div h2 { 
+	color: #CB3362;
+	font-family: lato-regular-webfont;
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0;
+	padding: 0 0 3px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+
+
+
 #body div.blog .featured ul li div span {
 	color: #7A6666;
 	display: block;
