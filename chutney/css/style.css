@@ -893,6 +893,20 @@ img {
 	text-transform: uppercase;
 	width: 510px;
 }
+
+#body.contact div.body div div h2 {
+	color: #990c0c;
+	float: left;
+	font-family: lato-regular-webfont;
+	font-size: 24px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0;
+	padding: 15px 0 4px;
+	text-align: left;
+	text-transform: uppercase;
+	width: 510px;
+}
 #body.contact div.body div div p {
 	color: #7a6666;
 	float: left;
@@ -924,6 +938,20 @@ img {
 }
 #body div.footer .contact h1 {
 	color: #CB3362;
+	float: none;
+	font-family: lato-regular-webfont;
+	font-size: 24px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0;
+	padding: 0 0 43px;
+	text-align: left;
+	text-transform: uppercase;
+	width: auto;
+}
+
+#body div.footer .contact h2 {
+	color: #990c0c;
 	float: none;
 	font-family: lato-regular-webfont;
 	font-size: 24px;
