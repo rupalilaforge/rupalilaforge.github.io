@@ -287,3 +287,5 @@ main img size width: 1045px;
 1. height: 612px;
 h 260
 2. w 330
+https://www.picmonkey.com/blog/make-a-circle-image-in-5-easy-stepsS
+https://www.guidingtech.com/15486/give-image-round-shape-using-word-paint/
