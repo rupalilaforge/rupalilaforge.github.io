@@ -320,6 +320,7 @@ img {
 	float: none;
 	background-position: 0 -326px;
 }
+
 #body.home div.footer div ul li h1 {
 	color: #ffffff;
 	font-family: lato-regular-webfont;
@@ -331,6 +332,9 @@ img {
 	text-align: center;
 	text-transform: uppercase;
 }
+
+
+
 /*----------------------------------------body-styles---------------------------------------*/
 #body {
 	margin: 0;
@@ -424,6 +428,17 @@ img {
 	text-align: left;
 	text-transform: uppercase;
 }
+#body div.footer div h1 a {
+	color: #CB3362;
+	font-family: lato-regular-webfont;
+	font-size: 24px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0;
+	padding: 0 0 27px;
+	text-align: left;
+	text-transform: uppercase;
+}
 #body div.footer div p, #body div.footer div span {
 	color: #7A6666;
 	font-family: roboto-regular-webfont;
@@ -449,9 +464,11 @@ img {
 	padding: 0;
 	text-decoration: underline;
 }
-#body div.footer div p a:hover, #body div ul li p a:hover, #body div.blog .featured ul li div p a:hover, #body div.blog .sidebar p a:hover, #body div.blog .featured p a:hover, #body.contact div.body div div p a:hover {
+#body div.footer div p a:hover, #body div h1 a:hover,  #body div ul li p a:hover, #body div.blog .featured ul li div p a:hover, #body div.blog .sidebar p a:hover, #body div.blog .featured p a:hover, #body.contact div.body div div p a:hover,   {
 	color: #c8c10d;
 }
+
+
 #body div {
 	margin: 0 auto;
 	max-width: 960px;
@@ -482,6 +499,7 @@ img {
 	text-align: left;
 	text-transform: capitalize;
 }
+
 #body div ul li p {
 	color: #7A6666;
 	font-family: roboto-regular-webfont;
@@ -510,6 +528,17 @@ img {
 	width: auto;
 }
 #body div ul li h2 {
+	color: #e32a62;
+	font-family: lato-regular-webfont;
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	text-transform: uppercase;
+}
+#body div ul li h2 a {
 	color: #e32a62;
 	font-family: lato-regular-webfont;
 	font-size: 20px;
