@@ -359,6 +359,29 @@ body #page {
 		width: 90%;
 	}
 	
+#body div.singlepost .featured a.load {
+	border: 2px solid #CBB5BC;
+	color: #A5838E;
+	display: block;
+	font-family: lato-bold-webfont;
+	font-size: 16px;
+	font-weight: normal;
+	height: 36px;
+	line-height: 36px;
+	margin: 63px auto 0;
+	padding: 0;
+	text-align: center;
+	text-transform: uppercase;
+	width: 156px;
+}
+#body div.singlepost .featured a.load:hover {
+	background-color: #c8c10d;
+	border: none;
+	color: #ffffff;
+	height: 40px;
+	line-height: 40px;
+	width: 160px;
+}
 #body.contact div.body div{
 		padding: 4% 0;
 		max-width: none;
