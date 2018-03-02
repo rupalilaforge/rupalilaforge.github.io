@@ -239,6 +239,14 @@ body #page {
 		width: 100%;
 	}
 	
+#body.home div.body div img {
+		display: block;
+		float: none;
+		margin: 0 auto;
+		padding: 0;
+		position: inherit;
+		width: 100%;
+	}
 	
 #body.home div.footer div ul li {
 		float: none;
