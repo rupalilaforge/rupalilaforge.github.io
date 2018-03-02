@@ -262,22 +262,7 @@ body #page {
 		min-height: 280px;
 	}
 	
-#body div.body img {
-		display: block;
-		height: 15%;
-		left: 0;
-		margin: 0 auto;
-		padding: 0;
-		position: absolute;
-		width: 100%;
-	}
-	#body div.footer {
-		margin: 0;
-		max-width: none;
-		overflow: hidden;
-		padding: 0 0 0;
-		width: 100%;
-	}
+
 	#body div.footer div.sidebar {
 		float: none;
 		margin: 10% auto 0;
@@ -322,6 +307,7 @@ body #page {
 		margin: 10% auto;
 	}
 	
+
 #body div.blog .featured ul li {
 		background: none;
 		margin: 10% auto;
