@@ -213,7 +213,15 @@ img {
 	padding: 0 0 0 40px;
 	width: 560px;
 }
-
+#body.home div.body div img {
+	display: block;
+	float: right;
+	left: 0;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	width: auto;
+}
 #body.home div.body div div h1 {
 	color: #7A6666;
 	display: block;
